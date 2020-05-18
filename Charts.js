@@ -1,5 +1,5 @@
-import Highcharts from "highcharts";
 import React from "react";
+//import Highcharts from "highcharts";
 
 // const options = ;
 
