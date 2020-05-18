@@ -11,11 +11,11 @@ const options = {
   }]
 }
  
-const App = () => <div>
+const Dashboard = () => <div>
   <HighchartsReact
     highcharts={Highcharts}
     options={options}
   />
 </div>
  
-export default App
+export default Dashboard
